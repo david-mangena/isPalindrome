@@ -7,7 +7,9 @@ Punctuation and spaces between the words or lettering is allowed.
 
 ## Project Setup
 Clone this repository https://github.com/david-mangena/isPalindrome.git
+
 Run cd isPalindrome to enter the project.
+
 
 ## Running the tests
 

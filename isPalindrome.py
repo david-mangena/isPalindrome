@@ -10,7 +10,7 @@ def isPalindrome(input_string):
     string = re.sub(r'[^\w\s]', '', input_string.replace(' ',''))
     # string = input_string.replace(' ','')
 
-    # reverse a string using slicing by providing the step value as -1
+    # reverse a string using slicing
     # checking if input string is equal or not to revised input string
     return string == string[::-1]
 

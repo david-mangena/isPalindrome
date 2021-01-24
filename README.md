@@ -8,7 +8,7 @@ Punctuation and spaces between the words or lettering is allowed.
 ## Project Setup
 You can run this program using any OS: Windows, macOS, Linux, etc.
 
-This course requires Python 2.7 or higher. 
+This program requires Python 2.7 or higher. 
 
 You will need Git to copy this project code.
 

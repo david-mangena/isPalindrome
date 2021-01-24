@@ -5,6 +5,13 @@ Python program to check if a string is palindrome or not
 A palindrome is a word, phrase, number or sequence of words that reads the same backward as forward. 
 Punctuation and spaces between the words or lettering is allowed.
 
+Project Setup
+Clone this repository.
+Run cd tau-intro-selenium-py to enter the project.
+Run pipenv install to install the dependencies.
+Run pipenv run python -m pytest to verify that the framework can run tests.
+Create a branch for your code changes. (See Repository Branching below.)
+
 ## Running the tests
 
 On your terminal run the program with the follow command python isPalindrome.py

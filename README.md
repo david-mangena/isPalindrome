@@ -18,7 +18,7 @@ On your terminal run the program with the follow command ```python isPalindrome.
 The program will prompt you to enter string, enter ``palindrome`` see below given valid dataset (example 1) 
 
 ## Negative testing
- Enter ``semordnilap`` word that can also be read backwards. but the backwards spelling forms an entirely different word, see below given invalid dataset (example 2)
+ Enter ``semordnilap`` words that can be read backwards. but the backwards spelling forms an entirely different word, see below given invalid dataset (example 2)
 
 ## valid Dataset (example 1)
 ```

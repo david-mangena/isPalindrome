@@ -10,17 +10,15 @@ Clone this repository https://github.com/david-mangena/isPalindrome.git
 
 Run cd isPalindrome to enter the project.
 
-
 ## Running the tests
 
 On your terminal run the program with the follow command python isPalindrome.py
-The program will prompt you to enter string, enter given dataset for positive testing 
 
-For negative test enter any string, word, phrase, number or sequence of words that does not reads the same backward as forward
+##Positive testing
+The program will prompt you to enter string, enter below given dataset for positive testing. 
 
-### And style tests
-
-Run the program with negative test data and positive test date for different outcome
+##Negative testing
+For negative test enter any string, word, phrase, number or sequence of words that does not reads the same backward as forward.
 
 ## valid Dataset
 ```

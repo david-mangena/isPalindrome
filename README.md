@@ -20,6 +20,60 @@ Run cd ```isPalindrome``` to enter the project.
 
 On your terminal run the program with the follow command ```python isPalindrome.py```
 
+
+
+# Test Cases
+```
+* Null String Test
+Input: null
+Expected Output: NullPointerException
+```
+
+Empty String Test
+Input: ""
+Expected Output: true (Is a Palindrome)
+Multiple White Space Test
+Input: "A   Santa         at Nasa"
+Expected Output: true (Is a Palindrome)
+Single Character Test
+Input: "H"
+Expected Output: true (Is a Palindrome)
+Punctuation Test
+Input: "Eva, can I see bees in a cave?"
+Expected Output: false (Not a Palindrome)
+Unicode Test
+Input: "\u20A9 My gym \u20A9"
+Expected Output: false (Not a Palindrome)
+Alpha Numeric Test
+Input: "Air 2 an a2ria"
+Expected Output: true (Is a Palindrome)
+Valid Palindrome Test
+Input: "No lemon no melon"
+Expected Output: true (Is a Palindrome)
+Invalid Palindrome Test
+Input: "I am a tester"
+Expected Output: false (Not a Palindrome)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Positive testing
 The program will prompt you to enter string, enter ``palindrome`` see below given valid dataset (example 1) 
 

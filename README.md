@@ -1,9 +1,8 @@
 # Palindrome Testing
 
-Python program to check if a string is palindrome or not
+A Python program to test if the input String is a Palindrome. Input can be a Word, Number or even a Phrase.
 
 ## Abstract
-* Write a program to test if the input String is a Palindrome in Java. Input can be a Word, Number or even a Phrase.
 
 * White space - acceptable
 * Punctuation marks - acceptable
@@ -66,13 +65,10 @@ Input: "I am a tester"
 Expected Output: false (Not a Palindrome)
 ```
 
-## Positive testing
-The program will prompt you to enter string, enter ``palindrome`` see below given valid dataset (example 1) 
-
 ## Negative testing
  Enter ``semordnilap`` words that can be read backwards. but the backwards spelling forms an entirely different word, see below given invalid dataset (example 2)
 
-## valid Dataset (example 1)
+## more valid Dataset
 ```
 Madam
 Noon
@@ -130,7 +126,7 @@ Ed, I saw Harpo Marx ram Oprah W. aside.
 
 Are we not pure? "No, sir!" Panama's moody Noriega brags. "It is garbage!" Irony dooms a man—a prisoner up to new era.
 ```
-## invalid Dataset (example 2)
+## more invalid Dataset (example 2)
 ```
 12
 224

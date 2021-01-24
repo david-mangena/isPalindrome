@@ -8,7 +8,6 @@ def isPalindrome(input_string):
 
     # use replace built-in function to remove white spaces
     string = re.sub(r'[^\w\s]', '', input_string.replace(' ',''))
-    # string = input_string.replace(' ','')
 
     # reverse a string using slicing
     # checking if input string is equal or not to revised input string

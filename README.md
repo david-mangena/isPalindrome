@@ -13,7 +13,7 @@ On your terminal run the program with the follow command python isPalindrome.py
 
 Run the program with negative test data and positive test date for different outcome
 
-# valid Dataset
+## valid Dataset
 ```
 Madam
 Noon
@@ -29,8 +29,13 @@ Solos
 Stats
 Tenet
 
+Malayalam 
 saippuakivikauppias
 
+
+Never odd or even.
+We panic in a pew.
+Won’t lovers revolt now?
 Don't nod.
 I did, did I?
 My gym.

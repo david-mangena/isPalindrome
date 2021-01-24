@@ -10,9 +10,9 @@ Clone this repository ```https://github.com/david-mangena/isPalindrome.git```
 
 Run cd ```isPalindrome``` to enter the project.
 
-## Running the tests
+## Running the program
 
-On your terminal run the program with the follow command python isPalindrome.py
+On your terminal run the program with the follow command ```python isPalindrome.py```
 
 ## Positive testing
 The program will prompt you to enter string, enter below given dataset for positive testing. 

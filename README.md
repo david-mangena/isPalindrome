@@ -23,18 +23,14 @@ Give an example
 
 Explain what these tests test and why
 
-```
 #Dataset
+```
 Positive test data
 
-##Palindromic alphanumeric
 313
 5A5
 5FF5
 16FLF61
-
-
-##Single Word Palindromes
 
 Madam
 Mom
@@ -47,11 +43,8 @@ Repaper
 Rotator
 Rotor
 
-
-#Dataset
 Negative test data
 
-##Multiple Word Palindromes
 Don't nod.
 I did, did I
 My gym

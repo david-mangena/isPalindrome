@@ -6,18 +6,18 @@ A palindrome is a word, phrase, number or sequence of words that reads the same 
 Punctuation and spaces between the words or lettering is allowed.
 
 ## Project Setup
-Clone this repository https://github.com/david-mangena/isPalindrome.git
+Clone this repository ```https://github.com/david-mangena/isPalindrome.git```
 
-Run cd isPalindrome to enter the project.
+Run cd ```isPalindrome``` to enter the project.
 
 ## Running the tests
 
 On your terminal run the program with the follow command python isPalindrome.py
 
-##Positive testing
+## Positive testing
 The program will prompt you to enter string, enter below given dataset for positive testing. 
 
-##Negative testing
+## Negative testing
 For negative test enter any string, word, phrase, number or sequence of words that does not reads the same backward as forward.
 
 ## valid Dataset

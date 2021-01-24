@@ -28,32 +28,46 @@ On your terminal run the program with the follow command ```python isPalindrome.
 Input: null
 Expected Output: NullPointerException
 ```
-
-Empty String Test
+```
+* Empty String Test
 Input: ""
 Expected Output: true (Is a Palindrome)
-Multiple White Space Test
+```
+```
+* Multiple White Space Test
 Input: "A   Santa         at Nasa"
 Expected Output: true (Is a Palindrome)
-Single Character Test
+```
+```
+* Single Character Test
 Input: "H"
 Expected Output: true (Is a Palindrome)
-Punctuation Test
+```
+```
+* Punctuation Test
 Input: "Eva, can I see bees in a cave?"
 Expected Output: false (Not a Palindrome)
-Unicode Test
+```
+```
+* Unicode Test
 Input: "\u20A9 My gym \u20A9"
 Expected Output: false (Not a Palindrome)
-Alpha Numeric Test
+```
+```
+* Alpha Numeric Test
 Input: "Air 2 an a2ria"
 Expected Output: true (Is a Palindrome)
-Valid Palindrome Test
+```
+```
+* Valid Palindrome Test
 Input: "No lemon no melon"
 Expected Output: true (Is a Palindrome)
-Invalid Palindrome Test
+```
+```
+* Invalid Palindrome Test
 Input: "I am a tester"
 Expected Output: false (Not a Palindrome)
-
+```
 
 
 

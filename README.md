@@ -15,7 +15,7 @@ Run cd ```isPalindrome``` to enter the project.
 On your terminal run the program with the follow command ```python isPalindrome.py```
 
 ## Positive testing
-The program will prompt you to enter string, enter below given dataset for positive testing. 
+The program will prompt you to enter string, enter below given valid dataset for positive testing. 
 
 ## Negative testing
 For negative test enter any string, word, phrase, number or sequence of words that does not reads the same backward as forward.

@@ -10,17 +10,9 @@ On your terminal run the program with the follow command python isPalindrome.py
 
 Run the program with negative test data and positive test date for different outcome
 
-#Dataset
+# valid Dataset
 ```
-Positive test data
-
-313
-5A5
-5FF5
-16FLF61
-
 Madam
-Mom
 Noon
 Racecar
 Radar
@@ -29,15 +21,42 @@ Refer
 Repaper
 Rotator
 Rotor
+Sagas
+Solos
+Stats
+Tenet
 
-Negative test data
+saippuakivikauppias
 
 Don't nod.
-I did, did I
-My gym
-Red rum, sir, is murder
-Step on no pets
-Top spot
-Was it a cat I saw
-Eva, can I see bees in a cave
-No lemon, no melon
+I did, did I?
+My gym.
+Red rum, sir, is murder.
+Step on no pets.
+Top spot.
+Was it a cat I saw?
+Eva, can I see bees in a cave?
+No lemon, no melon.
+
+313
+5A5
+5FF5
+16FLF61
+
+0 
+121
+676
+10,201
+69,696
+698,896
+1,002,001
+6,948,496
+100,020,001
+522,808,225
+
+12/12/2121
+12/1/21 
+1/20/21
+1/29/21
+
+Are we not pure? "No, sir!" Panama's moody Noriega brags. "It is garbage!" Irony dooms a man—a prisoner up to new era.

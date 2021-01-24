@@ -2,26 +2,13 @@
 
 Python program to check if a string is palindrome or not
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-
 ## Running the tests
 
-Explain how to run the automated tests for this system
+On your terminal run the program with the follow command python isPalindrome.py
 
-### Break down into end to end tests
+### And style tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
+Run the program with negative test data and positive test date for different outcome
 
 #Dataset
 ```

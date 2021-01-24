@@ -2,6 +2,9 @@
 
 Python program to check if a string is palindrome or not
 
+A palindrome is a word, phrase, number or sequence of words that reads the same backward as forward. 
+Punctuation and spaces between the words or lettering is allowed.
+
 ## Running the tests
 
 On your terminal run the program with the follow command python isPalindrome.py
@@ -37,6 +40,8 @@ Top spot.
 Was it a cat I saw?
 Eva, can I see bees in a cave?
 No lemon, no melon.
+
+Ed, I saw Harpo Marx ram Oprah W. aside.
 
 313
 5A5

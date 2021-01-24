@@ -1,9 +1,13 @@
-# Project Title
+# Palindrome Testing
 
 Python program to check if a string is palindrome or not
 
-A palindrome is a word, phrase, number or sequence of words that reads the same backward as forward. 
-Punctuation and spaces between the words or lettering is allowed.
+## Abstract
+* Write a program to test if the input String is a Palindrome in Java. Input can be a Word, Number or even a Phrase.
+
+* White space - acceptable
+* Punctuation marks - acceptable
+* Any Case - acceptable
 
 ## Project Setup
 You can run this program using any OS: Windows, macOS, Linux, etc.
@@ -20,14 +24,7 @@ Run cd ```isPalindrome``` to enter the project.
 
 On your terminal run the program with the follow command ```python isPalindrome.py```
 
-
-
 # Test Cases
-```
-* Null String Test
-Input: null
-Expected Output: NullPointerException
-```
 ```
 * Empty String Test
 Input: ""
@@ -68,25 +65,6 @@ Expected Output: true (Is a Palindrome)
 Input: "I am a tester"
 Expected Output: false (Not a Palindrome)
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Positive testing
 The program will prompt you to enter string, enter ``palindrome`` see below given valid dataset (example 1) 

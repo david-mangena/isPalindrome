@@ -6,6 +6,12 @@ A palindrome is a word, phrase, number or sequence of words that reads the same 
 Punctuation and spaces between the words or lettering is allowed.
 
 ## Project Setup
+You can run this program using any OS: Windows, macOS, Linux, etc.
+
+This course requires Python 2.7 or higher. 
+
+You will need Git to copy this project code.
+
 Clone this repository ```https://github.com/david-mangena/isPalindrome.git```
 
 Run cd ```isPalindrome``` to enter the project.

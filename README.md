@@ -2,12 +2,6 @@
 
 A Python program to test if the input String is a Palindrome. Input can be a Word, Number or even a Phrase.
 
-## Abstract
-
-* White space - acceptable
-* Punctuation marks - acceptable
-* Any Case - acceptable
-
 ## Project Setup
 You can run this program using any OS: Windows, macOS, Linux, etc.
 
@@ -19,9 +13,16 @@ Clone this repository ```https://github.com/david-mangena/isPalindrome.git```
 
 Run cd ```isPalindrome``` to enter the project.
 
+## Abstract
+
+* White space - acceptable
+* Punctuation marks - acceptable
+* Any Case - acceptable
+
 ## Running the program
 
-On your terminal run the program with the follow command ```python isPalindrome.py```
+* On your terminal run the program with the follow command ```python isPalindrome.py```
+* input string
 
 # Test Cases
 ```

@@ -1,24 +1,27 @@
 
-#function which return reverse of a string
+# import regex
 import re
 
-def isPalindrome(string):
+# function that returns a boolean indicating
+# whether or not a string is a palindrome.
+def isPalindrome(input_string):
 
-    # Removing punctuations, white spaces and lowercase string
-    res = re.sub(r'[^\w\s]', '', string.replace(' ','').lower())
+    # use replace built-in function to remove white spaces
+    string = re.sub(r'[^\w\s]', '', input_string.replace(' ',''))
+    # string = input_string.replace(' ','')
 
-    # Checking if both string are equal or not
-    return res == res[::-1]
+    # reverse a string using slicing by providing the step value as -1
+    # checking if input string is equal or not to revised input string
+    return string == string[::-1]
 
-#Enter string
-inputString = raw_input("Enter String: ")
+# enter string
+input_string = raw_input("Enter String: ")
 
-#lowercase and remove  input string
-answer = isPalindrome(inputString)
+# lowercase input string
+answer = isPalindrome(input_string.lower())
 
 # print outcome
 if answer:
-    print("It's Palindrome")
+    print("The string is a palindrome.")
 else:
-    print("It's not Palindrome")
-
+    print("The string is not a palindrome.")

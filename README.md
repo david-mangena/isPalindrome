@@ -15,12 +15,12 @@ Run cd ```isPalindrome``` to enter the project.
 On your terminal run the program with the follow command ```python isPalindrome.py```
 
 ## Positive testing
-The program will prompt you to enter string, enter below given valid dataset for positive testing. 
+The program will prompt you to enter string, enter ``palindrome`` see below given valid dataset (example 1) 
 
 ## Negative testing
-For negative test enter any string, word, phrase, number or sequence of words that does not reads the same backward as forward.
+ Enter ``semordnilap`` word that can also be read backwards. but the backwards spelling forms an entirely different word, see below given invalid dataset (example 2)
 
-## valid Dataset
+## valid Dataset (example 1)
 ```
 Madam
 Noon
@@ -77,3 +77,41 @@ Ed, I saw Harpo Marx ram Oprah W. aside.
 1/29/21
 
 Are we not pure? "No, sir!" Panama's moody Noriega brags. "It is garbage!" Irony dooms a man—a prisoner up to new era.
+```
+## invalid Dataset (example 2)
+```
+12
+224
+10,110
+123,001
+5502,229
+
+stressed - desserts
+rewarder - redrawer
+
+deliver - reviled
+stinker - reknits
+redroot - to-order
+
+redraw - warder
+reward - drawer
+repaid - diaper
+sinned - Dennis
+Kramer -remark
+
+soccer - reccos
+denier - reined
+
+spider - redips
+tenner - rennet
+
+depot - toped
+denim - mined
+dinar - ranid
+
+regal - lager
+trams - smart
+devil - lived
+warts - straw
+sleep - peels
+revel - lever

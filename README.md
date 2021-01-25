@@ -1,6 +1,7 @@
 # Palindrome Testing
 
-A Python program to test if the input String is a Palindrome. Input can be a Word, Number or even a Phrase.
+A Python program to test if the input String is a Palindrome. 
+Input can be a Word, Number or even a Phrase.
 
 ## Project Setup
 You can run this program using any OS: Windows, macOS, Linux, etc.
@@ -43,7 +44,7 @@ Expected Output: true (Is a Palindrome)
 ```
 * Punctuation Test
 Input: "Eva, can I see bees in a cave?"
-Expected Output: false (Not a Palindrome)
+Expected Output: false (Is a Palindrome)
 ```
 ```
 * Unicode Test
@@ -66,8 +67,9 @@ Input: "I am a tester"
 Expected Output: false (Not a Palindrome)
 ```
 
-## Negative testing
- Enter ``semordnilap`` words that can be read backwards. but the backwards spelling forms an entirely different word, see below given invalid dataset (example 2)
+## Negative testing 
+ Enter ``semordnilap`` words that can be read backwards. 
+ but the backwards spelling forms an entirely different word, see below given invalid dataset (example 2)
 
 ## more valid Dataset
 ```

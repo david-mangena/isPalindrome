@@ -5,12 +5,12 @@ import re
 # function that returns a boolean indicating
 # whether or not a string is a palindrome.
 def isPalindrome(input_string):
-
+    # use regex to remove punctuation
     # use replace built-in function to remove white spaces
     string = re.sub(r'[^\w\s]', '', input_string.replace(' ',''))
 
     # reverse a string using slicing
-    # checking if input string is equal or not to revised input string
+    # checking if input string is equal to revised input string
     return string == string[::-1]
 
 # enter string

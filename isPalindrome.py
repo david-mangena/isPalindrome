@@ -5,6 +5,7 @@ import re
 # function that returns a boolean indicating
 # whether or not a string is a palindrome.
 def isPalindrome(input_string):
+
     # use regex to remove punctuation
     # use replace built-in function to remove white spaces
     string = re.sub(r'[^\w\s]', '', input_string.replace(' ',''))

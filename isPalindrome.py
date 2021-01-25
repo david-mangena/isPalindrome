@@ -21,6 +21,6 @@ answer = isPalindrome(input_string.lower())
 
 # print outcome
 if answer:
-    print("The string is a palindrome.")
+    print("Is a palindrome.")
 else:
-    print("The string is not a palindrome.")
+    print("Not a palindrome.")
